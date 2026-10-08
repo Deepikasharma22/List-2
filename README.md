@@ -1,2 +1,2 @@
-# List-2
+# List
 This is my third project
